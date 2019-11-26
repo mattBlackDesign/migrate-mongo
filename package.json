@@ -1,5 +1,5 @@
 {
-  "name": "migrate-mongo",
+  "name": "@mblackmblack/migrate-mongo",
   "version": "6.0.4",
   "description": "A database migration tool for MongoDB in Node",
   "main": "lib/migrate-mongo.js",
